@@ -1,0 +1,14 @@
+wget -O 02109500.txt "https://waterdata.usgs.gov/nc/nwis/uv?cb_00060=on&format=rdb&site_no=02109500&period=&begin_date=2018-09-25&end_date=2018-10-01"
+
+#URLs
+#Waccamaw River @ Freeland https://waterdata.usgs.gov/nc/nwis/uv?cb_00060=on&format=rdb&site_no=02109500&period=&begin_date=2018-09-25&end_date=2018-10-01
+
+#Lumber River @ Boardman https://waterdata.usgs.gov/nc/nwis/uv?cb_00060=on&format=rdb&site_no=02134500&period=&begin_date=2018-09-25&end_date=2018-10-01
+
+#Neuse River near Fort Barnwell https://waterdata.usgs.gov/nc/nwis/uv?cb_00060=on&format=rdb&site_no=02091814&period=&begin_date=2018-09-25&end_date=2018-10-01
+
+#Cape Fear R at Lock #1 Kelly https://waterdata.usgs.gov/nc/nwis/uv?cb_00060=on&format=rdb&site_no=02105769&period=&begin_date=2018-09-25&end_date=2018-10-01
+
+#Autum and Amanda be sure to note correct URLS when working on loop
+
+#wget -O (allows to download the file and new name)
