@@ -11,7 +11,7 @@
 # Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
 #
 # Contact:   gs-w_support_nwisweb@usgs.gov
-# retrieved: 2018-10-03 14:57:03 EDT       (caww02)
+# retrieved: 2018-10-03 15:37:12 EDT       (sdww02)
 #
 # Data for the following 1 site(s) are contained in this file
 #    USGS 02134500 LUMBER RIVER AT BOARDMAN, NC

@@ -11,7 +11,7 @@
 # Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
 #
 # Contact:   gs-w_support_nwisweb@usgs.gov
-# retrieved: 2018-10-03 14:57:05 EDT       (sdww02)
+# retrieved: 2018-10-03 15:35:40 EDT       (vaww01)
 #
 # Data for the following 1 site(s) are contained in this file
 #    USGS 02105769 CAPE FEAR R AT LOCK #1 NR KELLY, NC
