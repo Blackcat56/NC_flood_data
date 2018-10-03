@@ -6,5 +6,5 @@ sed -n '17p' "$gauge".txt >> flow_out.txt
 tail -n 1 "$gauge".txt >> flow_out.txt
 done
 
-#This code line pastes the flow output to a new text file. 
+#This code line combines the two lines from flow output into one line for the new text file, most_recent_discharge. 
 paste - - < flow_out.txt > most_recent_discharge.txt
