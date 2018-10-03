@@ -5,3 +5,5 @@ wget -O "$gauge".txt "https://waterdata.usgs.gov/nc/nwis/uv?cb_00060=on&format=r
 sed -n '17p' "$gauge".txt >> flow_out.txt
 tail -n 1 "$gauge".txt >> flow_out.txt
 done
+
+paste - - < flow_out.txt > most_recent_discharge.txt
