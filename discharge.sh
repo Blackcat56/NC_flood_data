@@ -1,4 +1,5 @@
 #Download discharge data for gauging stations of interests in NC from USGS website
+#The discharge unit is cfs
 #Usage: bash discharge.sh
 
 for gauge in "02109500" "02134500" "02091814" "02105769" $1
@@ -18,3 +19,4 @@ paste - - < flow2.txt > most_recent_discharge.txt
 #This code line combines the two lines from flow output into one line for the new text file, most_recent_discharge.
 
 rm flow.txt flow2.txt
+#This code deletes flow.txt and flow2.txt. These text files are not useful after geting the single file most_recent_discharge.txt 
