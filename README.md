@@ -5,6 +5,7 @@ This code was created to figure out how four rivers of North Carolina are being 
 After downloading the data the loop creates different text files for gage amounts and creates a single file containing the most recent gage amounts from all the rivers.  The file discharge.sh contains the code that preforms the requested tasks. The unit for river discharge is cfs or cubic feet per second.           
 
 
+
 Tasks are split as follows:
 
 Jill- wget code
@@ -12,6 +13,8 @@ Jill- wget code
 Autum- loop script
 
 Amanda- readme file and various tidying within the script
+
+
 
 
 Gage data information: 
