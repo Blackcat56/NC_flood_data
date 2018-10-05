@@ -1,4 +1,0 @@
-#This is the code from class.
-#date+%Y/%m/%d
-
-
