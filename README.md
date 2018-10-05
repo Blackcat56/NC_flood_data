@@ -6,15 +6,7 @@ After downloading the data the loop creates different text files for gage amount
 
 
 
-Tasks are split as follows:
-
-Jill- wget code
-
-Autum- loop script
-
-Amanda- readme file and various tidying within the script
-
-
+Tasks are split as follows: Jill- wget code, Autum- loop script, Amanda- readme file and various tidying within the script
 
 
 Gage data information: 
