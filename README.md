@@ -1,12 +1,15 @@
-Norht Carolina River Gages Extraction Code ReadME
+North Carolina River Gages Extraction Code ReadME
 
 This shell script and loop code downloads the most recent four gage sites data from North Carolina rivers. 
 
 The sites are:
 
 02109500	 WACCAMAW RIVER AT FREELAND, NC
+
 02134500	 LUMBER RIVER AT BOARDMAN, NC
-02091814	 NEUSE RIVER NEAR FORT BARNWELL, NC 		 
+
+02091814	 NEUSE RIVER NEAR FORT BARNWELL, NC
+ 		 
 02105769	 CAPE FEAR R AT LOCK #1 NR KELLY, NC
 
 The urls for the four gage sites are:
